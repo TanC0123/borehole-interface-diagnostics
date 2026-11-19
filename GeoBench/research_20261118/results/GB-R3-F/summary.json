@@ -1,0 +1,30 @@
+{
+  "idw2/common": {
+    "targets": 3345,
+    "supported": 3345,
+    "hole_rmse": 20.070095738937088
+  },
+  "idw2/expanded": {
+    "targets": 3471,
+    "supported": 3414,
+    "hole_rmse": 20.15972776927601
+  },
+  "idw2/original_on_common": {
+    "targets": 3345,
+    "hole_rmse": 20.002187111865517
+  },
+  "kriging/common": {
+    "targets": 3345,
+    "supported": 3345,
+    "hole_rmse": 20.71756121620421
+  },
+  "kriging/expanded": {
+    "targets": 3471,
+    "supported": 3414,
+    "hole_rmse": 20.77765680554403
+  },
+  "kriging/original_on_common": {
+    "targets": 3345,
+    "hole_rmse": 20.67122494920638
+  }
+}

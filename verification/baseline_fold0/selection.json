@@ -1,0 +1,92 @@
+{
+  "random": {
+    "selected": "nearest",
+    "candidates": {
+      "nearest": {
+        "rmse": 9.531732535695125,
+        "radius": 1.200830572999153,
+        "oof_targets": 2530,
+        "calibration_holes": 1042,
+        "common_support_rmse": 9.165295817235592,
+        "common_support_targets": 2469
+      },
+      "idw1": {
+        "rmse": 14.864491929146357,
+        "radius": 1.4534930973858498,
+        "oof_targets": 2530,
+        "calibration_holes": 1042,
+        "common_support_rmse": 14.546069936949197,
+        "common_support_targets": 2469
+      },
+      "idw2": {
+        "rmse": 10.001915478588748,
+        "radius": 1.096265967286739,
+        "oof_targets": 2530,
+        "calibration_holes": 1042,
+        "common_support_rmse": 9.697476110552183,
+        "common_support_targets": 2469
+      },
+      "ridge": {
+        "rmse": 18.571728727206654,
+        "radius": 1.7178126404897007,
+        "oof_targets": 2530,
+        "calibration_holes": 1042,
+        "common_support_rmse": 18.258480374300227,
+        "common_support_targets": 2469
+      },
+      "forest": {
+        "rmse": 10.40511666048651,
+        "radius": 1.1002677725919914,
+        "oof_targets": 2530,
+        "calibration_holes": 1042,
+        "common_support_rmse": 9.962123002783198,
+        "common_support_targets": 2469
+      }
+    }
+  },
+  "spatial": {
+    "selected": "idw2",
+    "candidates": {
+      "nearest": {
+        "rmse": 20.6595741479526,
+        "radius": 2.71877370210034,
+        "oof_targets": 2469,
+        "calibration_holes": 1039,
+        "common_support_rmse": 20.6595741479526,
+        "common_support_targets": 2469
+      },
+      "idw1": {
+        "rmse": 19.813990466341274,
+        "radius": 2.0331321284534134,
+        "oof_targets": 2469,
+        "calibration_holes": 1039,
+        "common_support_rmse": 19.813990466341274,
+        "common_support_targets": 2469
+      },
+      "idw2": {
+        "rmse": 18.870510522388933,
+        "radius": 1.9679103404137475,
+        "oof_targets": 2469,
+        "calibration_holes": 1039,
+        "common_support_rmse": 18.870510522388933,
+        "common_support_targets": 2469
+      },
+      "ridge": {
+        "rmse": 28.229246365734355,
+        "radius": 2.8019791073293305,
+        "oof_targets": 2469,
+        "calibration_holes": 1039,
+        "common_support_rmse": 28.229246365734355,
+        "common_support_targets": 2469
+      },
+      "forest": {
+        "rmse": 22.381425104476584,
+        "radius": 2.954293005286767,
+        "oof_targets": 2469,
+        "calibration_holes": 1039,
+        "common_support_rmse": 22.381425104476584,
+        "common_support_targets": 2469
+      }
+    }
+  }
+}

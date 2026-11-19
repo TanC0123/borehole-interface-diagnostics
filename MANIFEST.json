@@ -1,0 +1,352 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "a2b45fe56c038a5244ddc3b52c1b143c045d63e217021124b3e53d3be29a6ae3",
+    "bytes": 35
+  },
+  {
+    "path": "DATA_CITATION.md",
+    "sha256": "2e4b133a9fa711efccca4643baf4a9974bdb5e01acb1179137f97b0df488655e",
+    "bytes": 864
+  },
+  {
+    "path": "GeoBench/research_20261118/code/data_sources_v2.py",
+    "sha256": "932c13d022128fd92350d82f0e9297efd33281de7b4b29e5b22d011366420d42",
+    "bytes": 9366
+  },
+  {
+    "path": "GeoBench/research_20261118/code/full_curves.py",
+    "sha256": "9ecbfbbe8b88bac887453e4b33c2983965c8c0316216a7d1cfccdbbbbbf3ca3c",
+    "bytes": 9947
+  },
+  {
+    "path": "GeoBench/research_20261118/code/geostat_extension.py",
+    "sha256": "85438adaf403e41f51031756513caa0092928d5502e25deec48ee3e07f78aa25",
+    "bytes": 8351
+  },
+  {
+    "path": "GeoBench/research_20261118/code/risk_decision.py",
+    "sha256": "6821dc20b7e24481a65aadd43c586f0ba7bd94a7f9dc06ad9b7fb1f2b96045b3",
+    "bytes": 6690
+  },
+  {
+    "path": "GeoBench/research_20261118/code/run_interface_study_v2.py",
+    "sha256": "49860d0ddbc631bcd67a0119db920fc117fc09bb2916b16b99e9b97cd3b6a60d",
+    "bytes": 9599
+  },
+  {
+    "path": "GeoBench/research_20261118/code/study_core_v2.py",
+    "sha256": "10121fb4dd8072a51f7de937aaf8e5dd162545dbd0442efd94ca1937a0dd5b7c",
+    "bytes": 8364
+  },
+  {
+    "path": "GeoBench/research_20261118/code/test_data_sources_v2.py",
+    "sha256": "5c10b62fc82786c6726c1cb9ef94d229fb9e13816ca5996b2cf99ad282fc465f",
+    "bytes": 3852
+  },
+  {
+    "path": "GeoBench/research_20261118/code/test_full_curves.py",
+    "sha256": "092f40ede3753897a749a4739c080ca13c60c30954515f87d549918f1652a000",
+    "bytes": 964
+  },
+  {
+    "path": "GeoBench/research_20261118/code/test_geostat_extension.py",
+    "sha256": "dc889080ed9ad53abf389e06f0e67dc28871ac761d835b1a79acc92b68a09211",
+    "bytes": 744
+  },
+  {
+    "path": "GeoBench/research_20261118/code/test_study_core_v2.py",
+    "sha256": "d1af0e94f1a1e6b16922b0fc31e4a8910bbb09ad9cb2ae3f387e1c703a6bef7f",
+    "bytes": 2940
+  },
+  {
+    "path": "GeoBench/research_20261118/code/unit_calibration.py",
+    "sha256": "c203ee1f2823baeab9e8eae9abba2e8f8153f8eac655413777bf90943bb8201b",
+    "bytes": 5865
+  },
+  {
+    "path": "GeoBench/research_20261118/evidence/v2/all_contacts.csv",
+    "sha256": "2bd8df76dd7b551bde4ad3f9263429011e4e7fc364593e9068488cab5d3394c8",
+    "bytes": 486349
+  },
+  {
+    "path": "GeoBench/research_20261118/evidence/v2/data_audit.json",
+    "sha256": "85641eebb2a1e46d28b01453fc6d2bd3b964f26ac75026f9cf7631d3929e479e",
+    "bytes": 3994
+  },
+  {
+    "path": "GeoBench/research_20261118/evidence/v2/eligible_contacts.csv",
+    "sha256": "e34c12a763f332056801b3fc05b707244c12c76c04a7f227c5168951df2d1657",
+    "bytes": 303130
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/predictions.csv",
+    "sha256": "f3326b513fbd0abcdf3f6088a0e59b011ea9869600c22badd7a2e052b4ee26a8",
+    "bytes": 5736076
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/rvg_fold0_oof.csv",
+    "sha256": "dd975802a67d0f8f7febf5f987b912699eba78e870bfafd14441c670eea73cee",
+    "bytes": 2368164
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/rvg_fold1_oof.csv",
+    "sha256": "5f7ca086719ee0c4decef4dd8f93f8051ffed457c92bd88c1261bcd27c7a16e7",
+    "bytes": 2427199
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/rvg_fold2_oof.csv",
+    "sha256": "b0b0a5378c5834f957f712b86eac652c2fc8014d3738adf4b6c68d2c9458c8b9",
+    "bytes": 2715356
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/rvg_fold3_oof.csv",
+    "sha256": "eac1e6cfba88d4c72be26fa4cbf868ec9fe3201c67c288691a4bee4af374a07a",
+    "bytes": 2618792
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/rvg_fold4_oof.csv",
+    "sha256": "21e87280ee40facb50ec07b5f4ca30215641a29f7b24e43f91ad2e177630dd9d",
+    "bytes": 2577380
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/split_assignments.csv",
+    "sha256": "411f7d009cce9a8b4bc6ca285123990c573138f0dfc5dd32a1ede04475691e5b",
+    "bytes": 304578
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-B/summary.json",
+    "sha256": "40d8f70538ed209a8818c6e58e7f13115e1719516bf4bbb1281a030cb94cbe77",
+    "bytes": 7867
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-C/decision_metrics.csv",
+    "sha256": "fa4a98729622c1c506935f99208f05ea6f7808fe92db3245cc9008155f2ce524",
+    "bytes": 4041
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-C/decision_metrics_within_fold.csv",
+    "sha256": "db59932cd7466299f0df871a521d8329a5f0e86f37772cb3956db0b26b122452",
+    "bytes": 2189
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-C/retention_decisions_within_fold.csv",
+    "sha256": "c8573061025aefc5481ac5a6f2ecddeca70bc2c7fbf3ee8ff56c7058e4a3c896",
+    "bytes": 1696340
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-C/risk_predictions.csv",
+    "sha256": "c3f89f9282ad8cee78fa486b5c8fc023ef58f603dc7601a013eace37c58294fe",
+    "bytes": 1115416
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-D/calibration.csv",
+    "sha256": "a336a3d7fdf923c2d9cc1812872d8f180139a2832cfb7a35cc0717a79953cf75",
+    "bytes": 7343
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-D/kriging_oof.csv",
+    "sha256": "59507e7de09ce694e54a6dbccdfa122d90b6e82e09d252c566d9a133afe5e339",
+    "bytes": 2639247
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-D/predictions.csv",
+    "sha256": "562c1c9abd2e9d52aef29a1e8bfdb67801ba1c5074428796d9d7d436db5e8f48",
+    "bytes": 11317461
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-D/summary.json",
+    "sha256": "f3e9be59577ab71a5eeef4ced5cbde0d624383af02d07f300602f1af0c08974d",
+    "bytes": 16003
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-E/calibration.csv",
+    "sha256": "62d628d68da4234197dd898691eae66762eb8589cb3e86101468455e256c98b0",
+    "bytes": 6174
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-E/predictions.csv",
+    "sha256": "afeda9fda3316370ea507f6bc07f2739dd86c124017d60ca49f356509b6a5bfc",
+    "bytes": 1739814
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-E/summary.json",
+    "sha256": "aa534300fd72451ff0478c8e7c8de1bdb1e9079d25dcccea98c94ae0629f19be",
+    "bytes": 2940
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-E/unit_metrics.csv",
+    "sha256": "c6d8e641679058da11b9af2734065400402e0f89c60b6ce59aa8af943bb954d2",
+    "bytes": 4729
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-F/predictions.csv",
+    "sha256": "6ef3b6de2108ab796525517c2986450da0a5079a460a96a5090ae777ae6b998d",
+    "bytes": 510397
+  },
+  {
+    "path": "GeoBench/research_20261118/results/GB-R3-F/summary.json",
+    "sha256": "518bcbdefe79d4bbfcf3b85b83db782c93b12b3afe0c81f9996f87d8aa5bcbb2",
+    "bytes": 614
+  },
+  {
+    "path": "GeoBench/research_20261118/results/curves_20261119/calibration_curves.csv",
+    "sha256": "6ae26af3d2d120f6aec7981ad7e72dde8e041bcf4cac00042554b1493a5f673f",
+    "bytes": 43193
+  },
+  {
+    "path": "GeoBench/research_20261118/results/curves_20261119/calibration_radii.csv",
+    "sha256": "2a6ac2a345c4d510d27c8d5d9692283576121bc5320a3c777fff2778fefa23ad",
+    "bytes": 113736
+  },
+  {
+    "path": "GeoBench/research_20261118/results/curves_20261119/error_ecdf.csv",
+    "sha256": "0de8e548834687c980f470418ba21a0726b1e2eedb6b0835a57b9c283771948e",
+    "bytes": 1027100
+  },
+  {
+    "path": "GeoBench/research_20261118/results/curves_20261119/manifest.json",
+    "sha256": "3c7a2782dcf098df74fc7207882e0d227d2161c332f6b0c39edd02a1056c8cb5",
+    "bytes": 2277
+  },
+  {
+    "path": "GeoBench/research_20261118/results/curves_20261119/retention_curves.csv",
+    "sha256": "b426c63d942cec721646e476f9e5f190b976361a3a04629c71497338a029c439",
+    "bytes": 44818
+  },
+  {
+    "path": "GeoBench/research_20261118/sources/rvg_datacite.json",
+    "sha256": "0153d89ff53cfdc98b991be304b8a72f813ce91ae8959b85d33009bfd26fb743",
+    "bytes": 11541
+  },
+  {
+    "path": "GeoBench/research_20261118/sources/rvg_record.json",
+    "sha256": "0d50ea88ac328307e5f90808140da4e707edc6f3b7a6df6f26dbc09aa004edc6",
+    "bytes": 5481
+  },
+  {
+    "path": "GeoBench/research_20261118/sources/rvg_v0.1.0_Data.zip",
+    "sha256": "4fe7f97f340c3ecd471cf59f65de17faa8f1cd9c0ba3b9304ce9e079a85fa391",
+    "bytes": 830902
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "af873072cfceca32a66a2eee31f4b4b9d9a67eb18487bbd4a58a2dc9834457cf",
+    "bytes": 1065
+  },
+  {
+    "path": "LICENSE_REVIEW.md",
+    "sha256": "6459741dc7094ecb3aba8c3885765e6e156631d41d2105cef79761de87caddfd",
+    "bytes": 456
+  },
+  {
+    "path": "README.md",
+    "sha256": "a93fb07182ee6078d5688aee8846f1c871c9a78538704ead45a806d24dd6f3df",
+    "bytes": 3183
+  },
+  {
+    "path": "SCOPE_AUDIT.json",
+    "sha256": "4fbd43a3886219752d4d38ed8be4f845ed399be86cc18ea747ca2ae86f51abe8",
+    "bytes": 3072
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "f18f27be5473af35499c6816f72ef19400c27cdb72c88e305fbd192865f63a5f",
+    "bytes": 65
+  },
+  {
+    "path": "run_public.py",
+    "sha256": "755b4d56b6639d5dbf4808fb5e95a80877621936e3c7461cfd82828612d0fd51",
+    "bytes": 4703
+  },
+  {
+    "path": "verification/baseline_fold0/oof.csv",
+    "sha256": "dd975802a67d0f8f7febf5f987b912699eba78e870bfafd14441c670eea73cee",
+    "bytes": 2368164
+  },
+  {
+    "path": "verification/baseline_fold0/predictions.csv",
+    "sha256": "40643edb230d1b64fb86c629aa1aa9f8dc22fb6d2c76919e95c27fa02666a6f9",
+    "bytes": 1462997
+  },
+  {
+    "path": "verification/baseline_fold0/selection.json",
+    "sha256": "a28ead81294a55e6009aa960725bab192d005a29fd8fa1777c80f3fd5e496165",
+    "bytes": 2671
+  },
+  {
+    "path": "verification/constraints_fold0/certificates.csv",
+    "sha256": "606f0203fbfd56f7aa0a2772028705f69a948c2e9a6041b4259d4d4cd50d9f11",
+    "bytes": 78606
+  },
+  {
+    "path": "verification/constraints_fold0/full_predictions.csv",
+    "sha256": "b2f44308be5e4b6b97e4c1b6ea03523f615d83f005440c6fe5c61d9223d02ed4",
+    "bytes": 1806062
+  },
+  {
+    "path": "verification/constraints_fold0/scored.csv",
+    "sha256": "e82551f1fdbb5fc0a2a09a797348d7435ae7d1e56444ad308473f2c7097a0ec4",
+    "bytes": 277751
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/reproducibility/audit_source.py",
+    "sha256": "15127229dde2125d3fdbfeffc498959603ae46641f018dbec69df137664eb8ca",
+    "bytes": 9737
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/reproducibility/reconstruct.py",
+    "sha256": "eca3f2c8be48b64518ee7b7ad63be4136ee479e8d6236358708ada0098470051",
+    "bytes": 15986
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/code/constraint_study.py",
+    "sha256": "1753e97b92830de6f778cb4ffbaf0693dec7c503b74be48b41234d4c3144e119",
+    "bytes": 10056
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/code/test_constraints.py",
+    "sha256": "8a6187634951918da23cf6606568f84518c764672391ad196bfaf9d16a081fbc",
+    "bytes": 1292
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/certificates.csv",
+    "sha256": "d98ef67ca1b661ce96a2cac77a033b02b1ae6356324697d191dc4f7df4dd0f37",
+    "bytes": 385535
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/feasible_subvector_diagnostics.csv",
+    "sha256": "64b3f53f0b7ee8cb7de326082275af5e3866094b1c250b825f7bb864b983a70f",
+    "bytes": 52707
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/full_predictions.csv",
+    "sha256": "7431d0e16fcac7e586a097edee59092167acfbfdbd8b4238e33a19bfff6d63e8",
+    "bytes": 8691523
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/graphs.json",
+    "sha256": "e3b18138d5abdb5e051a51c9421274a83cb4773904ebe668fc5d3895829ec4b6",
+    "bytes": 585430
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/physical_certificates.csv",
+    "sha256": "24d74caa292cbae3565e2526e9fd2bfc7a0ef675558ef15201779cc9c81aef27",
+    "bytes": 595291
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/scored.csv",
+    "sha256": "f130d410a50b34942210ee5a6c5e7675712928e0368daf8f5e631088edb842f6",
+    "bytes": 1094580
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/structure.csv",
+    "sha256": "04d5597a3076b199eea69aeda0ec33fe9e1591ead8189914a1d0bef25ed19080",
+    "bytes": 195659
+  },
+  {
+    "path": "\u6838\u5fc3\u8bba\u6587\u4e00/research_20261118/results/P1-R3-G/summary.json",
+    "sha256": "7d76f4fe82bb3536452ac48bfc4e555034e0b45e19381004ca517f95039f5a06",
+    "bytes": 1075
+  }
+]

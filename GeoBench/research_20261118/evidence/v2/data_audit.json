@@ -1,0 +1,194 @@
+{
+  "rvg": {
+    "raw_segments": 5520,
+    "merged_segments": 5214,
+    "metadata_conflicts": {
+      "B45B0407": {
+        "MV": {
+          "stratigraphy": 4.93,
+          "lithology": 4.99
+        }
+      },
+      "B45B0465": {
+        "MV": {
+          "stratigraphy": 5.0,
+          "lithology": 4.45
+        }
+      },
+      "B45G0453": {
+        "MV": {
+          "stratigraphy": 7.84,
+          "lithology": 8.6
+        }
+      },
+      "B50E0126": {
+        "MV": {
+          "stratigraphy": 13.1,
+          "lithology": 14.1
+        }
+      },
+      "B50E0338": {
+        "MV": {
+          "stratigraphy": 13.52,
+          "lithology": 13.48
+        }
+      },
+      "B50F0527": {
+        "MV": {
+          "stratigraphy": 12.26,
+          "lithology": 12.0
+        }
+      },
+      "B50F1446": {
+        "MV": {
+          "stratigraphy": 7.5,
+          "lithology": 14.2
+        }
+      },
+      "B51A0542": {
+        "MV": {
+          "stratigraphy": 7.74,
+          "lithology": 7.67
+        }
+      },
+      "B51D0201": {
+        "MV": {
+          "stratigraphy": 19.6,
+          "lithology": 20.4
+        }
+      },
+      "B51D0209": {
+        "MV": {
+          "stratigraphy": 22.58,
+          "lithology": 22.48
+        }
+      },
+      "B51E0056": {
+        "MV": {
+          "stratigraphy": 13.87,
+          "lithology": 14.4
+        }
+      },
+      "B51E0322": {
+        "MV": {
+          "stratigraphy": 10.5,
+          "lithology": 10.05
+        }
+      },
+      "B51E0323": {
+        "MV": {
+          "stratigraphy": 11.8,
+          "lithology": 12.01
+        }
+      },
+      "B57F0078": {
+        "MV": {
+          "stratigraphy": 28.18,
+          "lithology": 28.09
+        }
+      },
+      "B58A0165": {
+        "MV": {
+          "stratigraphy": 32.0,
+          "lithology": 34.08
+        }
+      },
+      "B58D0885": {
+        "MV": {
+          "stratigraphy": 29.6,
+          "lithology": 29.83
+        }
+      },
+      "B58D2387": {
+        "MV": {
+          "stratigraphy": 32.02,
+          "lithology": 27.73
+        }
+      },
+      "B58D2498": {
+        "MV": {
+          "stratigraphy": 29.0,
+          "lithology": 31.15
+        }
+      },
+      "B60B1198": {
+        "MV": {
+          "stratigraphy": 30.7,
+          "lithology": 30.51
+        }
+      }
+    },
+    "reasons": {
+      "terminal": 1440,
+      "unknown_unit": 233,
+      "disconnected_repeated_unit": 92,
+      "unknown_next_unit": 44,
+      "metadata_conflict": 97,
+      "beyond_hole_depth": 1
+    },
+    "group_mapping": {
+      "NA": "NUNA",
+      "NASC": "NUNA",
+      "NAZA": "NUNA",
+      "NAWA1": "NUNA",
+      "NAWA2": "NUNA",
+      "NAWO": "NUNA",
+      "NAWOBE": "NUNA",
+      "EC1": "EC",
+      "EC2": "EC",
+      "NIGR": "NI",
+      "NIHO": "NI",
+      "NIBA": "NI",
+      "BXLM": "BX",
+      "BXSI": "BX",
+      "BXDE": "BX",
+      "BXSC": "BX",
+      "BXBS": "BX",
+      "BXWI": "BX",
+      "BXKO": "BX",
+      "BEWY": "BE",
+      "BERO": "BE",
+      "KR1": "KR",
+      "KR2": "KR",
+      "KRWY": "KR",
+      "UR1": "UR",
+      "UR2": "UR"
+    },
+    "archive_sha256": "4fe7f97f340c3ecd471cf59f65de17faa8f1cd9c0ba3b9304ce9e079a85fa391",
+    "lithology_rows": 69877,
+    "interpretation": "Expert lithostratigraphic interpretation, not new field truth",
+    "code_mapping": "Author-supplied strat_class_map.csv, all groups retained; no outcome-driven rare-group removal",
+    "all_segments": 5214,
+    "eligible_contacts": 3401,
+    "holes_all": 1440,
+    "holes_eligible": 1325,
+    "units_all": 22,
+    "units_eligible": 19,
+    "eligible_per_unit": {
+      "AAOP": 26,
+      "BE": 519,
+      "BRVI": 4,
+      "BX": 1129,
+      "EC": 25,
+      "HO": 3,
+      "IE": 34,
+      "KI": 137,
+      "KR": 64,
+      "LA": 4,
+      "MS": 85,
+      "NI": 41,
+      "NUNA": 22,
+      "OO": 36,
+      "PZWA": 269,
+      "RU": 4,
+      "ST": 568,
+      "SY": 427,
+      "VE": 4
+    },
+    "duplicate_coordinate_holes": 0,
+    "depth_range_eligible": [
+      0.2,
+      1639.0
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "rvg/hard_all": {
+    "hole_rmse": 20.150649584055397,
+    "targets": 3401,
+    "supported": 3345,
+    "folds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "observed_violation_holes": 4,
+    "observed_violations": 4,
+    "encoded_violations": 0
+  },
+  "rvg/raw": {
+    "hole_rmse": 20.002187111865517,
+    "targets": 3401,
+    "supported": 3345,
+    "folds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "observed_violation_holes": 13,
+    "observed_violations": 15,
+    "encoded_violations": 6887
+  },
+  "rvg/weighted_all": {
+    "hole_rmse": 20.12163003646617,
+    "targets": 3401,
+    "supported": 3345,
+    "folds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "observed_violation_holes": 4,
+    "observed_violations": 4,
+    "encoded_violations": 0
+  },
+  "rvg/weighted_support3": {
+    "hole_rmse": 20.131254651559466,
+    "targets": 3401,
+    "supported": 3345,
+    "folds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "observed_violation_holes": 6,
+    "observed_violations": 8,
+    "encoded_violations": 0
+  }
+}
